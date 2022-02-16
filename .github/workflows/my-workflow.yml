@@ -13,3 +13,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           first-greeting: "Learning Lab User"
+          second-greeting: "foobar"
+          third-greeting: "regular cat"
